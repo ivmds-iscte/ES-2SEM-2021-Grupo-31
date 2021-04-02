@@ -6,8 +6,9 @@ public class App {
     System.out.println("GUI app");
     System.out.println("Carol");
     System.out.println("Carol master");
+    System.out.println("Ines master 2");
     System.out.println("Ines master");
     System.out.println("Ines master 1");
-    
+
   }
 }
